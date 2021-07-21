@@ -1,0 +1,16 @@
+current directory: /Users/ivana/Desktop/online_projects/foodlog/vendor/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/ivana/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/ivana/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210720-18628-w92uni.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/ivana/Desktop/online_projects/foodlog/vendor/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/ivana/Desktop/online_projects/foodlog/vendor/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/ivana/Desktop/online_projects/foodlog/vendor/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20210720-18628-z33etz/racc
